@@ -6,6 +6,7 @@ import (
 	_ "github.com/ncw/rclone/backend/amazonclouddrive"
 	_ "github.com/ncw/rclone/backend/azureblob"
 	_ "github.com/ncw/rclone/backend/b2"
+	_ "github.com/ncw/rclone/backend/baidupcs"
 	_ "github.com/ncw/rclone/backend/box"
 	_ "github.com/ncw/rclone/backend/cache"
 	_ "github.com/ncw/rclone/backend/crypt"
